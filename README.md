@@ -49,15 +49,7 @@ voxAfrica/
 ├── 📊 datasets/
 │   ├── speech_datasets_links.md     # Curated dataset links
 │   ├── shona_resources.md           # Shona-specific datasets
-│   └── metadata/                    # Dataset metadata files
-├── 🔧 scripts/
-│   ├── preprocessing/               # Data preprocessing scripts
-│   └── evaluation/                  # Evaluation scripts
-├── 📚 docs/
-│   ├── setup.md                     # Setup instructions
-│   └── benchmarks.md                # Performance benchmarks
-└── 💡 examples/
-    └── notebooks/                   # Tutorial notebooks
+
 ```
 
 ---
