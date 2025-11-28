@@ -239,7 +239,7 @@ If you find this project useful, please consider giving it a star ⭐
 
 ---
 
-<img src="https://via.placeholder.com/800x200/2E7D32/FFFFFF?text=Made+with+❤️+for+African+Languages" alt="Footer">
+
 
 **Empowering linguistic diversity through open technology**
 
