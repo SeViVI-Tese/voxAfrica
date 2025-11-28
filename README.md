@@ -245,5 +245,7 @@ If you find this project useful, please consider giving it a star ⭐
 
 
 **Empowering linguistic diversity through open technology**
+<img src="https://github.com/user-attachments/assets/489b68c8-2abc-4426-bd6a-9dbf5f24b346" width="100%" height=200>
+
 
 </div>
