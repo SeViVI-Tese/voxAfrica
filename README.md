@@ -3,7 +3,10 @@
 <div align="center">
 
 
-![photo_5821016464318729268_y (1)](https://github.com/user-attachments/assets/489b68c8-2abc-4426-bd6a-9dbf5f24b346)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/489b68c8-2abc-4426-bd6a-9dbf5f24b346" width="600">
+</p>
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
