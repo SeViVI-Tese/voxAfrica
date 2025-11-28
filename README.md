@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![voxAfrica banner](https://github.com/SeViVI-Tese/voxAfrica/blob/main/photo_5821016464318729268_y%20(1).jpg)
+![voxAfrica Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=voxAfrica+-+Open+African+Speech+Datasets)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)

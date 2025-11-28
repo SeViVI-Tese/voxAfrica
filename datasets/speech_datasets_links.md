@@ -102,9 +102,7 @@
 ## 📥 Quick Access Commands
 
 ```bash
-# Mozilla Common Voice
-from datasets import load_dataset
-cv = load_dataset("mozilla-foundation/common_voice_11_0", "sn")
+
 
 # Badrex Shona
 badrex = load_dataset("badrex/shona-speech")
