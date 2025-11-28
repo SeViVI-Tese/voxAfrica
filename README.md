@@ -47,8 +47,8 @@ voxAfrica/
 ├── 📜 LICENSE                        # MIT License
 ├── 📋 CODE_OF_CONDUCT.md            # Community standards
 ├── 📊 datasets/
-│   ├── speech_datasets_links.md     # Curated dataset links
-│   ├── shona_resources.md           # Shona-specific datasets
+    ├── speech_datasets_links.md     # Curated dataset links
+    ├── shona_resources.md           # Shona-specific datasets
 
 ```
 
