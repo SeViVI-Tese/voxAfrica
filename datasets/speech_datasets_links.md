@@ -16,7 +16,7 @@
 
 | Dataset | Languages | Hours | License | Link |
 |---------|-----------|-------|---------|------|
-| **Mozilla Common Voice** | Swahili, Luganda, Kinyarwanda, Shona, +15 | Varies | CC0 | [Common Voice](https://commonvoice.mozilla.org/) |
+| **Mozilla Common Voice** | Swahili, Luganda, Kinyarwanda +15 | Varies | CC0 | [Common Voice](https://commonvoice.mozilla.org/) |
 | **Badrex Shona** | Shona | ~5 hrs | CC-BY-4.0 | [HuggingFace](https://huggingface.co/datasets/badrex/shona-speech) |
 | **Shekharmeena Shona** 🆕 | Shona (Male) | Small | Check License | [HuggingFace](https://huggingface.co/datasets/Shekharmeena/Shona-Male-Audio-Dataset) |
 | **FLEURS** | 102 languages (incl. African) | ~12 hrs/lang | CC-BY-4.0 | [Google Research](https://huggingface.co/datasets/google/fleurs) |
